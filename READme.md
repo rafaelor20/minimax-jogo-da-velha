@@ -1,0 +1,1 @@
+Implementação do algoritmo minimax em python para o jogo da velha
